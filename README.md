@@ -39,7 +39,7 @@ ________________________________________________________________________________
   
   - Detect inactive IAM users beyond a configurable threshold(default: 90 days).
 
-  - Evaluates Console/Access Key activity ( default: 90days).
+  - Evaluates Console/Access Key activity, (last inactive date and total days Inactive).
   
   - Generate summary statistics: get the aggregrate count of total, inactive and active users.
     
