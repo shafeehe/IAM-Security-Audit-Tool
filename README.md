@@ -23,8 +23,9 @@ ________________________________________________________________________________
 
 <img width="1040" height="65" alt="image" src="https://github.com/user-attachments/assets/b799e8b2-fba6-46fc-be73-f6d250eceed8" />
 
-
-  - List IAM Users with MFA enabled or disabled in your AWS Account.
+  - This cmdlet analyzes AWS IAM credential report data to identify users that have not performed any activity within a specified number of days.
+    
+  - List IAM Users with MFA enabled or disabled in your AWS Account. 
     
   - Root Account MFA is excluded (security best practice).
 
