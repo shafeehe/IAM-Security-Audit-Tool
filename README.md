@@ -22,10 +22,8 @@ ________________________________________________________________________________
   - ✅Cmdlet: Get-InactiveIAMUsers
 
 <img width="1040" height="65" alt="image" src="https://github.com/user-attachments/assets/b799e8b2-fba6-46fc-be73-f6d250eceed8" />
-
-  - This cmdlet analyzes AWS IAM credential report data to identify users that have not performed any activity within a specified number of days.
     
-  - List IAM Users with MFA enabled or disabled in your AWS Account. 
+  - List IAM Users with MFA (Multi Factor Authentication) enabled or disabled in your AWS Account. 
     
   - Root Account MFA is excluded (security best practice).
 
@@ -38,7 +36,6 @@ ________________________________________________________________________________
   - ✅Cmdlet: Get-InactiveIAMUsers
 
 <img width="913" height="43" alt="image" src="https://github.com/user-attachments/assets/bc7a06b0-90f5-498e-ad6d-9dab7c6fc10c" />
-
   
   - Detect inactive IAM users beyond a configurable threshold(default: 90 days).
 
