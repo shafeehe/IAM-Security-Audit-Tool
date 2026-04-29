@@ -11,6 +11,9 @@
 
 - This project focuses on building real-world security automation aligned with AWS best practices.
 
+- The IAM misconfigurations are one of the most common security risks in AWS environments. As teams scale, manually auditing users, MFA, access keys, and root account risks becomes inefficient and error-prone.
+  This tool automates those checks, helps enforce AWS security best practices, and makes security auditing faster, reliable, and scalable. It also supports reporting and risk prioritization, which is important in    real DevOps and cloud operations.
+
 - The tool is structured as a reusable PowerShell module, similar to how enterprise automation tools are packaged and deployed.
 ______________________________________________________________________________________________________
 
