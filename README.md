@@ -79,7 +79,8 @@ ________________________________________________________________________________
 
   
   > Use the root account only for tasks that require it, and only when absolutely necessary.
-  
+
+  - The root account has unrestricted access to an AWS account and should be used only for account-level setup. This audit evaluates the security posture of the root account and flags critical misconfigurations.
   - Audits the AWS Root Account for critical security risks using the IAM-Credentials-Report
   
   - Checks root account for:
